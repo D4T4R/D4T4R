@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building applications.
 - 🌱 Exploring Blockchain and Cyber Security.
 - ⚡ In my free time I solve problems on Codeforces and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezpuns)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AD-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezpuns)
 
 ---
 
