@@ -7,7 +7,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=D4T4R&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media2.giphy.com/media/gpF1hNYWOFvLa/giphy.gif?cid=ecf05e475dvloonw8ubia0r2tao1jmq3s978fo7xewr5y3jh&ep=v1_gifs_search&rid=giphy.gif)" width="40"></h1>
+<h1 align="center">hey there <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/gpF1hNYWOFvLa/giphy.gif)" width="40"></h1>
 
 <p align="center"><img src="" width="600" height="300"  /></p>
 
