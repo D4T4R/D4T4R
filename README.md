@@ -15,7 +15,7 @@
 
 I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer, contributing to frontend and backend for building, deploying and maintaining applications.
+- 🔭 I’m working as a Software Engineer, contributing to frontend and backend for building, deploying and maintaining code.
 - 🌱 Exploring Blockchain and Cyber Security.
 - ⚡ In my free time I solve problems on Codeforces and read tech articles.
 - 💱 I am a huge finance fan and I love to solve problems in this domain.
