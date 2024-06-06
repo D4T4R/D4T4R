@@ -11,13 +11,14 @@
 
 <p align="center"><img src="https://media.giphy.com/media/gpF1hNYWOFvLa/giphy.gif" width="450" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### 👨‍💻: &nbsp;About Me :
 
 I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building applications.
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building, deploying and maintaining applications.
 - 🌱 Exploring Blockchain and Cyber Security.
 - ⚡ In my free time I solve problems on Codeforces and read tech articles.
+- 💱 I am a huge finance fan and I love to solve problems in this domain.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AD-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezpuns)
 
 ---
