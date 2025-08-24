@@ -64,6 +64,10 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/cpanel/cpanel-original.svg" title="cPanel" alt="cPanel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Apache Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" title="Web3.js" alt="Web3JS" width="40" height="40"/>&nbsp;
 </p>
 
 ---
