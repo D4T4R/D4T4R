@@ -68,6 +68,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Apache Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" title="Web3.js" alt="Web3JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/zatosource/zato/blob/main/code/zato-openapi/src/zato/openapi/app/static/swagger-ui/android-chrome-192x192.png" title="Zato" alt="Zato" width="40" height="40"/>&nbsp;
 </p>
 
 ---
