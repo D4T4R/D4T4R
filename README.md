@@ -82,11 +82,6 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D4T4R&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### 🔥 &nbsp; My Stats :
-
-<html><a href="https://git.io/streak-stats"><img src="https://my-github-readme-streak-stats-6f5424pwl-d4t4rs-projects.vercel.app?user=D4T4R&theme=chartreuse-dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></html>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4T4R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
