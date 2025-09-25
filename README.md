@@ -83,7 +83,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D4T4R&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=D4T4R&theme=dark&background=000000](https://my-github-readme-streak-stats-6f5424pwl-d4t4rs-projects.vercel.app/?user=D4T4R&theme=chartreuse-dark&hide_border=true&short_numbers=true&date_format=M%20j[%2C%20Y]&exclude_days=Sun%2CSat))](https://git.io/streak-stats)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=D4T4R&theme=dark&background=000000](https://my-github-readme-streak-stats-6f5424pwl-d4t4rs-projects.vercel.app/?user=D4T4R&theme=chartreuse-dark&hide_border=true&short_numbers=true&date_format=M%20j[%2C%20Y]&exclude_days=Sun%2CSat))](https://my-github-readme-streak-stats-6f5424pwl-d4t4rs-projects.vercel.app/?user=D4T4R&theme=chartreuse-dark&hide_border=true&short_numbers=true&date_format=M%20j[%2C%20Y]&exclude_days=Sun%2CSat)
 
 
 
