@@ -7,7 +7,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=D4T4R&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=25&duration=6000&pause=120&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+there" alt="Typing SVG" /></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=25&duration=6000&pause=120&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+there%2C+Welcome+!!" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/gpF1hNYWOFvLa/giphy.gif" width="450" height="325"  /></p>
 
