@@ -19,7 +19,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 🌱 Exploring Blockchain and Cyber Security.
 - ⚡ In my free time I solve problems on Codeforces and read tech articles.
 - 💱 I am a huge finance fan and I love to solve problems in this domain.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AD-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezpuns)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AD-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a)
 
 ---
 
