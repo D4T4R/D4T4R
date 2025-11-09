@@ -61,7 +61,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/go-gitea/gitea/blob/main/assets/logo.svg" title="Gitea" alt="Gitea" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/kedacore/keda/blob/main/images/logos/keda-icon.svg" title="Keda Autoscaler" alt="keda" width="40" height="40"/>&nbsp;
-<img src="https://github.com/config/sphinx-build/_static/percona-favicon.svg" title="Percona Operator" alt="keda" width="40" height="40"/>&nbsp;
+<img src="https://github.com/percona/percona-toolkit/blob/0289a1a6b4018c950c812b1d7d495774c712103f/config/sphinx-build/_static/percona-favicon.svg" title="Percona Operator" alt="Percona" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
