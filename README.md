@@ -92,7 +92,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![GitHub Streak](http://my-github-readme-streak-stats-puvtgcyo4-d4t4rs-projects.vercel.app?user=D4T4R&theme=windows-dark)]
 
-[My SteamDB Profile](https://steamdb.info/calculator/76561198980899321/?cc=us): 💸 **$2314** — 🎯 **364** games
+[My SteamDB Profile](https://steamdb.info/calculator/76561198980899321/?cc=us): 💸 **$9314** — 🎯 **364** games
 
 ---
 
