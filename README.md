@@ -41,13 +41,14 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLDev"  alt="SQLDev" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/Veritas%20VCS.png" title="Veritas HAC" alt="Veritas HAC" width="40" height="60"/>&nbsp;
+<img src="https://github.com/ClusterLabs/pacemaker/blob/main/doc/clusterlabs-logo-55x55.png" title="Pacemaker" alt="ClusterLabs Pacemaker" width="40" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-<img src="https://github.com/grafana/beyla/blob/main/docs/sources/assets/logo.png" title="Beyla" alt="Grafana" width="35" height="40"/>&nbsp;
+<img src="https://github.com/grafana/beyla/blob/main/docs/sources/assets/logo.png" title="Beyla" alt="Beyla" width="35" height="40"/>&nbsp;
 <img src="https://www.cloudbabble.co.uk/assets/img/anthos/anthoslogo.png" title="Anthos" alt="GCP Anthos" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
