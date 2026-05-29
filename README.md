@@ -97,7 +97,11 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=D4T4R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[My SteamDB Profile](https://steamdb.info/calculator/76561198980899321/?cc=us): 💸 **$9314** — 🎯 **364** games
+| 🎮 Steam Profile | |
+|------------------|--|
+| 💸 Account Value | **$9,314** |
+| 🎯 Games Owned | **364** |
+| 🔗 Profile | [SteamDB Calculator](https://steamdb.info/calculator/76561198980899321/?cc=us) |
 
 ---
 
