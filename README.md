@@ -94,7 +94,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://github-stats-extended.vercel.app/api/?username=D4T4R&theme=blue-green)
+[!GitHub Streak](https://github-stats-extended.vercel.app/api/?username=D4T4R&theme=blue-green)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=D4T4R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
