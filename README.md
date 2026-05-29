@@ -97,7 +97,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=D4T4R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-| 🎮 Steam Profile | |
+| 🎮 Steam Profile |[Here](https://steamcommunity.com) |
 |------------------|--|
 | 💸 Account Value | **$9,314** |
 | 🎯 Games Owned | **364** |
