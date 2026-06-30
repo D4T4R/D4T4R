@@ -52,7 +52,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/symbol-white.png" title="Victoria Metrics" alt="VictoriaMetrics" width="35" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/zabbix.png" title="Zabbix" alt="Zabbix" width="35" height="40"/>&nbsp;
-<img src="https://github.com/perses/perses/blob/main/docs/images/perses_logo_cropped.svg" title="Perses" alt="Perses" width="40" height="40"/>&nbsp;
+<img src="https://github.com/perses/perses/blob/main/docs/images/perses_logo_cropped.svg" title="Perses" alt="Perses" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
 <img src="https://github.com/grafana/beyla/blob/main/docs/sources/assets/logo.png" title="Beyla" alt="Beyla" width="35" height="40"/>&nbsp;
