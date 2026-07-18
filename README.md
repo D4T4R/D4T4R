@@ -90,7 +90,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Apache Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-original.svg" title="Web3.js" alt="Web3JS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/D4T4R/GoAnon/blob/main/zato-transparent-clean.png" title="Zato" alt="Zato" width="40" height="40"/>&nbsp;
+<img src="https://github.com/D4T4R/GoAnon/blob/main/zato-og.png" title="Zato" alt="Zato" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivy-Oqgqx4JRPY18gvvMc-nXO7HMbu05zcQ&s" title="Apigee" alt="Apigee" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/1393215" title="Zipline" alt="Zipline" width="40" height="40"/>&nbsp;
 
