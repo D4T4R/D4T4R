@@ -62,7 +62,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" title="Azure DevOps" alt="ADO" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-<img src="https://github.com/D4T4R/GoAnon/blob/main/istio.png" title="Istio Servicemesh" alt="Istio" width="35" height="40"/>&nbsp;
+<img src="https://github.com/D4T4R/GoAnon/blob/main/istio.png" title="Istio Servicemesh" alt="Istio" width="35" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/fargate.png" title="AWS Fargate" alt="AWS Fargate" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/52158677" title="FluxCD" alt="FluxCD" width="40" height="40"/>&nbsp;
