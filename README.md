@@ -49,7 +49,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-<img src="https://www.cloudbabble.co.uk/assets/img/anthos/anthoslogo.png" title="Anthos" alt="GCP Anthos" width="40" height="40"/>&nbsp;
+<img src="https://github.com/D4T4R/GoAnon/blob/main/anthos.png" title="Anthos" alt="GCP Anthos" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/symbol-white.png" title="Victoria Metrics" alt="VictoriaMetrics" width="35" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/zabbx.png" title="Zabbix" alt="Zabbix" width="35" height="40"/>&nbsp;
