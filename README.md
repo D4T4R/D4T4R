@@ -40,6 +40,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLDev"  alt="SQLDev" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
+<img src="https://github.com/D4T4R/GoAnon/blob/main/flyway.png" title="Flyway" alt="Flyway" width="35" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/Veritas%20VCS.png" title="Veritas HAC" alt="Veritas HAC" width="40" height="60"/>&nbsp;
 <img src="https://github.com/ClusterLabs/pacemaker/blob/main/doc/clusterlabs-logo-55x55.png" title="Pacemaker" alt="ClusterLabs Pacemaker" width="40" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
