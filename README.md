@@ -80,7 +80,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ElasticSearch" alt="Elastic" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/icons8-kibana.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/icons8-logstash.svg" title="Logstash" alt="Logstash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/D4T4R/GoAnon/blob/main/benthos.png" title="Benthos" alt="Benthos" width="40" height="35"/>&nbsp;
+<img src="https://github.com/D4T4R/GoAnon/blob/main/benthos.png" title="Benthos" alt="Benthos" width="40" height="42"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original.svg" title="Awk" alt="Awk" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ballerina/ballerina-original.svg" title="Ballerina" alt="Ballerina" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/40630007" title="Genesys Cloud" alt="Genesys" width="40" height="40"/>&nbsp;
