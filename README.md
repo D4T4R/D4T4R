@@ -110,8 +110,8 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 | 🎮 Steam Profile |[Here](https://steamcommunity.com/id/ezpuns) |
 |------------------|--|
-| 💸 Account Value | **$9,314** |
-| 🎯 Games Owned | **417** |
+| 💸 Account Value | **$10,017** |
+| 🎯 Games Owned | **423** |
 | 🔗 Profile | [SteamDB Calculator](https://steamdb.info/calculator/76561198980899321/?cc=us) |
 
 ---
