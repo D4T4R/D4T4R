@@ -59,7 +59,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
 <img src="https://github.com/grafana/beyla/blob/main/docs/sources/assets/logo.png" title="Beyla" alt="Beyla" width="35" height="40"/>&nbsp;
-<img src="https://github.com/D4T4R/GoAnon/blob/main/Keycloak.png" title="Keycloak" alt="Kyecloak" width="40" height="40"/>&nbsp;
+<img src="https://github.com/D4T4R/GoAnon/blob/main/Keycloak.png" title="Keycloak" alt="Keycloak" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" title="Azure DevOps" alt="ADO" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -73,7 +73,7 @@ I am a Student & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/go-gitea/gitea/blob/main/assets/logo.svg" title="Gitea" alt="Gitea" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/boring-registry.png" title="Boring Registry" alt="Boring Registry" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/D4T4R/GoAnon/blob/main/stakatereloader.png" title="Stakater Reloader" alt="Stakater" width="43" height="43"/>&nbsp;
+<img src="https://github.com/D4T4R/GoAnon/blob/main/stakatereloader.png" title="Stakater Reloader" alt="Stakater" width="45" height="45"/>&nbsp;
 <img src="https://github.com/kedacore/keda/blob/main/images/logos/keda-icon.svg" title="Keda Autoscaler" alt="keda" width="40" height="40"/>&nbsp;
 <img src="https://github.com/percona/percona-toolkit/blob/0289a1a6b4018c950c812b1d7d495774c712103f/config/sphinx-build/_static/percona-favicon.svg" title="Percona Operator" alt="Percona" width="40" height="40"/>&nbsp;
 <img src="https://github.com/D4T4R/GoAnon/blob/main/piranha-cloud-square.png" title="Piranha Cloud" alt="Piranha Cloud" width="40" height="40"/>&nbsp;
